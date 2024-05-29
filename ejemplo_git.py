@@ -1,12 +1,9 @@
 #ejercicio diccionario de hoy: usuarios:
-print('menú')
- 
- #git config = global 
- #git config --global user.name "nombre"
- #git config --global user.email "correo"
 
- #git init 
- #git status = desarrollo 
- #git add = confirma(agregar a stage)
- #git commit -m "instrucción"
- #desarrolla/stage(preparacion)/confirmación 
+diccionario = {
+    "identificador": 1,
+    "nombre": "marriot",
+    "direccion": "av bernardo O'higgins 1122",
+    "funcionando": True, 
+    "valor_habitacion": 100000
+}
